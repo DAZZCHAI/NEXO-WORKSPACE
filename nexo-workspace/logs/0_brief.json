@@ -1,0 +1,78 @@
+{
+  "nombre": "Nexo Workspace",
+  "sector": "plaza",
+  "ciudad": "León",
+  "estado": "Guanajuato",
+  "servicios": [
+    "Coworking día suelto ($280/día)",
+    "Pase semanal coworking ($980/semana)",
+    "Membresía coworking básica 10 días/mes ($1,800/mes)",
+    "Membresía coworking ilimitada ($3,200/mes)",
+    "Oficina privada 1-2 personas (desde $6,500/mes)",
+    "Oficina privada 3-5 personas (desde $11,000/mes)",
+    "Oficina privada 6-10 personas (desde $18,500/mes)",
+    "Oficina privada 11-20 personas (desde $28,000/mes)",
+    "Sala de juntas Ejecutiva 6 personas ($450/hora)",
+    "Sala de juntas Boardroom 12 personas ($750/hora)",
+    "Sala de Capacitación 20 personas ($1,100/hora)",
+    "Domicilio fiscal y comercial ($990/mes)",
+    "Gestión de correspondencia",
+    "Servicio de impresión",
+    "Café, agua y snacks incluidos en membresías"
+  ],
+  "diferenciadores": [
+    "Único coworking en León con generador eléctrico de respaldo — nunca pierdes trabajo por apagón",
+    "Fibra óptica 1 Gbps simétrico no compartida entre pisos",
+    "Dirección en Blvd. Campestre, la zona más corporativa de León",
+    "Contratos desde 1 mes sin compromisos de largo plazo",
+    "Community Manager dedicado con 2 eventos de networking al mes",
+    "Recepcionista compartida que atiende llamadas con el nombre de tu empresa",
+    "Estacionamiento incluido: 2 cajones por oficina privada"
+  ],
+  "anos_experiencia": 7,
+  "numeros_clave": [
+    {
+      "valor": "320+",
+      "label": "empresas y profesionales atendidos"
+    },
+    {
+      "valor": "7",
+      "label": "años en operación"
+    },
+    {
+      "valor": "98%",
+      "label": "ocupación promedio últimos 24 meses"
+    },
+    {
+      "valor": "45",
+      "label": "empresas con membresía activa"
+    },
+    {
+      "valor": "180+",
+      "label": "profesionales en comunidad WhatsApp"
+    }
+  ],
+  "oferta_especial": "Primera semana de coworking ilimitado GRATIS al agendar visita presencial. Sin tarjeta de crédito ni letra chica. Para oficinas privadas: primer mes al 50% en contratos de 3 meses o más firmados antes del 30 de junio.",
+  "testimonios": [],
+  "telefono": "4771985543",
+  "whatsapp": "524771985543",
+  "email": null,
+  "horario": "Lunes a viernes 7:00–22:00 | Sábado 8:00–18:00 | Domingo cerrado",
+  "estilo_visual": "corporativo",
+  "colores": [
+    "#111827",
+    "#FFFFFF",
+    "#F59E0B"
+  ],
+  "objetivo_pagina": "formulario",
+  "slogan": "Tu oficina en León, sin compromisos de años",
+  "source": "texto",
+  "instagram_handle": null,
+  "instagram_stats": {
+    "seguidores": null,
+    "siguiendo": null,
+    "publicaciones": null
+  },
+  "foto_perfil": null,
+  "fotos_disponibles": []
+}
